@@ -2,7 +2,7 @@
 Your project's description...
 
 ## Environments
-- Preview: https://main--aem-ramp-up--alexzhangensemble.aem.live/
+- Preview: https://main--aem-ramp-up--alexzhangensemble.aem.page/
 - Live: https://main--aem-ramp-up--alexzhangensemble.aem.live/
 
 ## Documentation
